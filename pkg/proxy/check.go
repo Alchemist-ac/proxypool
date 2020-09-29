@@ -9,7 +9,8 @@ import (
 
 	"github.com/ivpusic/grpool"
 
-	"github.com/Dreamacro/clash/adapters/outbound"
+	//"github.com/Dreamacro/clash/adapters/outbound"
+	"github.com/Dreamacro/clash/tree/master/adapters/outbound"
 )
 
 const defaultURLTestTimeout = time.Second * 5
